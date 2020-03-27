@@ -1,3 +1,11 @@
+  
+/**********************************************************************/
+/*  File Name: error_state.h                                          */
+/*  Author   : Mohamed Nassar                                         */
+/*  Date     : 10-Mar-2020                                            */
+/*  Description :  Enum for Detecting Errors in Functions             */
+/**********************************************************************/
+
 #ifndef ERROR_STATE_H
 #define ERROR_STATE_H
 typedef enum Error
