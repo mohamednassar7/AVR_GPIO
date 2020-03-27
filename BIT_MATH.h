@@ -1,4 +1,9 @@
-
+/**********************************************************************/
+/*  File Name: BIT_MATH.h                                             */
+/*  Author   : Mohamed Nassar                                         */
+/*  Date     : 10-Mar-2020                                            */
+/*  Description :  Macros for Controlling each bit in a Register      */
+/**********************************************************************/
 
 #ifndef _BIT_MATH_H
 #define _BIT_MATH_H
