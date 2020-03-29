@@ -33,7 +33,10 @@
 /**********************************************************************/
 #define HIGH 1
 #define LOW  0
-
+/**********************************************************************/
+/*  Error state is an enum that work as an indicator to how function  */
+/*  works                                                             */
+/**********************************************************************/
 
 ErrorStatus DIO_enumSetPinDirection( u8 copy_u8PortID , u8 copy_u8PinID , u8 copy_u8Direction);
 ErrorStatus DIO_enumSetPinValue(u8 copy_u8PortID , u8 copy_u8PinID,u8 copy_u8Value);
