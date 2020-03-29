@@ -2,7 +2,7 @@
 /*  File Name: DIO_reg                                                */
 /*  Author   : Mohamed Nassar                                         */
 /*  Date     : 26-Mar-2020                                            */
-/*  Description : Regesters concers with AVR DIO interfacing          */
+/*  Description : Regesters concerns with AVR DIO interfacing         */
 /**********************************************************************/
 /*portc*/
 #define PORTC_REG        *((volatile u8*)0X35)
