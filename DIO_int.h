@@ -31,7 +31,7 @@ ErrorStatus DIO_enumSetPinDirection( u8 copy_u8PortID , u8 copy_u8PinID , u8 cop
 ErrorStatus DIO_enumSetPinValue(u8 copy_u8PortID , u8 copy_u8PinID,u8 copy_u8Value);
 u8          DIO_u8GetPin(u8 copy_u8PortID,u8 copy_u8PinID);
 ErrorStatus DIO_enumSetPortDirection(u8 copy_u8PortID,u8 copy_u8Direction);
-ErrorStatus DIO_enumSetPortDirection(u8 copy_u8PortID,u8 copy_u8Value);
+ErrorStatus DIO_enumSetPortValue(u8 copy_u8PortID,u8 copy_u8Value);
 
 
 
